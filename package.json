@@ -1,0 +1,16 @@
+{
+  "name": "graphs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --runInBand"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^26.6.3",
+    "supertest": "^6.1.3"
+  }
+}
